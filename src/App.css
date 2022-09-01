@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.forms{
+  color:orange;
+  border: 5px;
+}
+.label{
+  color: black;
+}
+.input{
+  background-color: rgb(232, 212, 174);
+  color:rgb(13, 62, 46);
+}
+.btn{
+  margin-left: 5px;
+  padding: 10px;
+  color:orange;
+  background-color: white;
+}
+.btn-danger{
+  padding: 10px;
+  margin-left: 50px;
+  color:orange;
+}
+.btn:hover{
+  background-color: rgb(232, 212, 174);
+  color:black;
+}
